@@ -1,0 +1,64 @@
+                                                         .......
+      ***           @@@@@@@       #############       .:::::::::::::.  
+    *******         @@  @@@@      ##         ##      .::'  '''''  '::. 
+   *********       @@    @@@      #  ~~   ~~  #      :::           ::: 
+/\* ### ### */\    @ 0  0 @@@     #  ()   ()  #      :::           ::: 
+|    @ / @    |   @@  I   @@@@    (     ^     )      :::           ::: 
+\/\    ^    /\/   @@      @@@@     |         |       ::'           ':: 
+   \  ===  /      @@  ==  @@@      |  {===}  |      : : /~~~' '~~~\ : :
+    \_____/        @+     @@        \       /       :(:   |   :):
+     _|_|_         @+++  +@@       /  -----  \      '.:     / \     :.'
+  *$$$$$$$$$*       @+   +@     ---  |%\ /%|  ---    ':    (. .)    :' 
+                     +88$8     /     |%%%%%|     \    '.  .:::::.  .'
+                                     |%/ \%|           :  <----->  :   
+                                                       '.  ~:::~  .'
+                                                         '.  '  .'     
+                                                           '''''
+                                                                                                                    .......
+#############       .:::::::::::::.  
+##         ##      .::'  '''''  '::. 
+#  ~~   ~~  #      :::           ::: 
+#  ()   ()  #      :::           ::: 
+(     ^     )      :::           ::: 
+ |         |       ::'           ':: 
+ |  {===}  |      : : /~~~' '~~~\ : :
+ \         /       :(:   |   :):
+  / ----- \      '.:     / \     :.'
+---|%\ /%|---    ':    (. .)    :' 
+/  |%%%%%|     \    '.  .:::::.  .'
+                                     |%/ \%|           :  <----->  :   
+                                                       '.  ~:::~  .'
+                                                         '.  '  .'     
+                                                           '''''
+                                                           //name as data type fancy merhcant name
+                                                           //file name for the ascii ascii art
+                                                           //vector of items that are being sold, 
+                                                           //what should the items do what effect do they have
+                                                           //simple option:string player can spend their money 
+                                                           //create a new class or struct for item
+                                                           //each item has its own class ? later
+                                                           //vector of items a new class have the name and price in that class
+                                                           //if u have 4 art, you would have one data member which would be 
+                                                           //reading message for the merchant 
+                                                           //when you gon to each merchant it will read to you a unqiue message 
+
+                                                           //vector for stock of items being sold 
+                                                        
+                                                           //each item will be a struct
+                                                           // -each item has a price 
+                                                           //seperate vector that keeps track of how
+                                                           //many items you have
+                                                           //index it in the same way 
+                                                           // index 0 for vector of items would also be 
+                                                           // index 0 for merhcant items 
+                                                           //stock of each item the merchant has
+                                                           //in nthe constructor for the merchant, directly read the file, get the ascii art as the string//assign that to a data member of the class
+                                                           ..each time you call get ascii art it direcrtly does it 
+                                                           //user picks go to merchant then a list of merchants  
+                                                           //use a percentage to randomize the stock of each item
+                                                           //each merchant has a 20% chance of having a water bottle, 30% chance of having a pack of gum
+                                                           //each merchant could have a certain percent chance of having a certain item 
+                                                           // certain chance of going to a merchant , make it so that less chacne of going to a merchant with sepcial items
+                                                           //at the end of the game print a summary and write that summary into a file 
+                                                           //option to print a summary from the last game 
+                                                           //
